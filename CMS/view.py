@@ -1,11 +1,8 @@
 from django.shortcuts import render
 from .models import *
 
-def index(request):
-    res = {
-        'name' : 'xiaoyongjian',
-        'addr' : '肇庆鼎湖'
-    }
-    user(name=res['name'],
-         addr=res['addr']).save()
-    return render(request, 'base.html', res)
+def column_detail(request, column_slug):
+    column = Column.objects.get(slug=column_slug)
+    return render(request, 'column.html', {'column': column})
+
+

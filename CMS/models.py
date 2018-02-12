@@ -1,6 +1,7 @@
 from __future__ import unicode_literals
 from django.db import models
 from django.utils.encoding import python_2_unicode_compatible
+from django.urls import reverse
 
 
 @python_2_unicode_compatible
@@ -11,6 +12,9 @@ class Column(models.Model):
 
      def __str__(self):
           return self.name
+
+     def get_absolute_url(self):
+         return reverse('column', args=(self.slug,))
 
      class Meta:
           verbose_name = '栏目'
@@ -31,6 +35,9 @@ class Article(models.Model):
 
      def __str__(self):
           return self.title
+
+     def get_absolute_url(self):
+         return reverse('article', args=(self.slug,))
 
      class Meta:
           verbose_name = '教程'

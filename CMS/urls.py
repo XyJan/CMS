@@ -18,6 +18,9 @@ from django.conf.urls import url
 from . import view
 
 urlpatterns = [
+
     url(r'^cms/admin/', admin.site.urls),
+    url(r'^column/(?P<column_slug>[^/]+)/$', view.column_detail, name='column'),
+    url(r'^news/(?P<article_slug>[^/]+)/$', 'news.views.article_detail', name='article'),
 
 ]
