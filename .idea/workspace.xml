@@ -2,7 +2,215 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e895a7b6-b445-48f0-95f1-fee7447708c6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CMS/migrations/0002_auto_20180212_1606.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CMS/migrations/0003_auto_20180212_1609.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/create_article.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/kindeditor-all-min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/kindeditor-all.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/lang/ar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/lang/en.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/lang/ko.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/lang/ru.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/lang/zh-CN.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/lang/zh-TW.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/license.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/anchor/anchor.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/autoheight/autoheight.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/baidumap/baidumap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/baidumap/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/baidumap/map.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/clearhtml/clearhtml.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/code/code.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/code/prettify.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/code/prettify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/emoticons.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/0.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/1.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/10.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/100.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/101.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/102.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/103.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/104.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/105.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/106.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/107.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/108.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/109.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/11.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/110.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/111.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/112.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/113.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/114.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/115.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/116.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/117.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/118.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/119.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/12.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/120.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/121.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/122.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/123.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/124.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/125.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/126.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/127.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/128.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/129.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/13.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/130.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/131.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/132.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/133.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/134.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/14.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/15.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/16.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/17.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/18.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/19.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/2.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/20.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/21.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/22.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/23.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/24.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/25.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/26.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/27.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/28.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/29.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/3.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/30.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/31.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/32.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/33.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/34.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/35.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/36.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/37.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/38.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/39.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/4.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/40.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/41.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/42.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/43.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/44.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/45.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/46.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/47.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/48.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/49.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/5.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/50.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/51.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/52.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/53.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/54.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/55.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/56.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/57.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/58.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/59.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/6.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/60.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/61.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/62.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/63.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/64.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/65.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/66.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/67.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/68.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/69.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/7.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/70.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/71.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/72.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/73.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/74.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/75.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/76.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/77.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/78.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/79.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/8.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/80.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/81.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/82.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/83.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/84.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/85.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/86.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/87.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/88.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/89.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/9.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/90.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/91.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/92.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/93.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/94.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/95.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/96.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/97.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/98.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/99.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/emoticons/images/static.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/filemanager/filemanager.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/filemanager/images/file-16.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/filemanager/images/file-64.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/filemanager/images/folder-16.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/filemanager/images/folder-64.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/filemanager/images/go-up.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/fixtoolbar/fixtoolbar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/flash/flash.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/image/image.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/image/images/align_left.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/image/images/align_right.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/image/images/align_top.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/image/images/refresh.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/insertfile/insertfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/lineheight/lineheight.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/link/link.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/map/map.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/map/map.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/media/media.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/multiimage/images/image.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/multiimage/images/select-files-en.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/multiimage/images/select-files-zh-CN.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/multiimage/images/swfupload.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/multiimage/multiimage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/pagebreak/pagebreak.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/plainpaste/plainpaste.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/preview/preview.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/quickformat/quickformat.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/table/table.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/template/html/1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/template/html/2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/template/html/3.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/template/template.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/plugins/wordpaste/wordpaste.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/themes/common/anchor.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/themes/common/blank.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/themes/common/flash.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/themes/common/loading.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/themes/common/media.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/themes/common/rm.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/themes/default/background.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/themes/default/default.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/themes/default/default.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/themes/qq/editor.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/themes/qq/qq.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/editor/kindeditor/themes/simple/simple.css" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/CMS/admin.py" afterPath="$PROJECT_DIR$/CMS/admin.py" />
+      <change beforePath="$PROJECT_DIR$/CMS/models.py" afterPath="$PROJECT_DIR$/CMS/models.py" />
+      <change beforePath="$PROJECT_DIR$/CMS/settings.py" afterPath="$PROJECT_DIR$/CMS/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,50 +219,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CMS$create_article.coverage" NAME="create_article Coverage Results" MODIFIED="1518423395984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CMS/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-              <folding>
-                <element signature="e#627#659#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMS/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMS/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMS/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="330">
+              <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
               <folding>
-                <element signature="e#0#32#0" expanded="true" />
+                <element signature="e#0#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,11 +242,33 @@
       <file leaf-file-name="view.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMS/view.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="90">
+              <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMS/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/editor/kindeditor/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -79,6 +280,7 @@
       <list>
         <option value="HTML File" />
         <option value="Python Script" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -91,7 +293,12 @@
       <find>lang</find>
       <find>Django administration</find>
       <find>login.html</find>
+      <find>STATICFILES_DIRS</find>
+      <find>kindeditor-4.1.10/</find>
     </findStrings>
+    <replaceStrings>
+      <replace>editot/kindeditor</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>C:\Users\xn067664\AppData\Local\Programs\Python\Python36\Lib\site-packages\django\contrib\admin</dir>
       <dir>C:\Users\xn067664\AppData\Local\Programs\Python\Python36\Lib\site-packages\django\contrib</dir>
@@ -109,10 +316,14 @@
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/CMS/__init__.py" />
         <option value="$PROJECT_DIR$/model/user.py" />
-        <option value="$PROJECT_DIR$/CMS/settings.py" />
-        <option value="$PROJECT_DIR$/CMS/admin.py" />
         <option value="$PROJECT_DIR$/CMS/view.py" />
         <option value="$PROJECT_DIR$/CMS/urls.py" />
+        <option value="$PROJECT_DIR$/CMS/models.py" />
+        <option value="$PROJECT_DIR$/CMS/create_article.py" />
+        <option value="$PROJECT_DIR$/create_article.py" />
+        <option value="$PROJECT_DIR$/CMS/settings.py" />
+        <option value="$PROJECT_DIR$/CMS/admin.py" />
+        <option value="$PROJECT_DIR$/static/js/editor/kindeditor/config.js" />
       </list>
     </option>
   </component>
@@ -123,8 +334,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="314" />
-    <option name="y" value="68" />
+    <option name="x" value="263" />
+    <option name="y" value="40" />
     <option name="width" value="1169" />
     <option name="height" value="691" />
   </component>
@@ -146,8 +357,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,138 +364,29 @@
               <item name="CMS" type="b2602c69:ProjectViewProjectNode" />
               <item name="CMS" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CMS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\xn067664\PycharmProjects\CMS\templates" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xn067664\PycharmProjects\CMS" />
       <recent name="C:\Users\xn067664\PycharmProjects\CMS\CMS" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xn067664\PycharmProjects\CMS\static" />
+      <recent name="C:\Users\xn067664\PycharmProjects\CMS\templates" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -300,7 +400,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Django server.CMS">
+    <configuration name="create_article" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CMS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create_article.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="CMS" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,6 +443,15 @@
       <option name="useCustomRunCommand" value="false" />
       <option name="customRunCommand" value="" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Django server.CMS" />
+      <item index="1" class="java.lang.String" itemvalue="Python.create_article" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.create_article" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -388,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518340965785</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="初始化MVC">
+      <created>1518340996300</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1518340996300</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -401,28 +536,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="314" y="68" width="1169" height="691" extended-state="0" />
+    <frame x="263" y="40" width="1169" height="691" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291367" sideWeight="0.496844" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26618704" sideWeight="0.27592427" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30215827" sideWeight="0.49323714" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291367" sideWeight="0.48602346" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26618704" sideWeight="0.72407573" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291367" sideWeight="0.56086564" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="manage.py@CMS" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41007194" sideWeight="0.70604146" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22362489" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31834534" sideWeight="0.2867448" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31834534" sideWeight="0.71325517" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30215827" sideWeight="0.49323714" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291367" sideWeight="0.4824166" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291367" sideWeight="0.5897205" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="manage.py@CMS" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4730216" sideWeight="0.63029754" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22723174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -438,7 +573,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化" />
     <MESSAGE value="测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+    <MESSAGE value="初始化MVC" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化MVC" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -449,18 +585,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html" />
     <entry file="file://$PROJECT_DIR$/CMS/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -481,9 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#198#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -491,7 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -499,39 +623,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/django/contrib/admin/templates/admin/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base_site.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base_site.html" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/django/contrib/admin/templates/admin/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-749">
           <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -539,7 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -547,7 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-630">
           <caret line="26" column="52" lean-forward="false" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -556,7 +661,7 @@
         <state relative-caret-position="180">
           <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
+            <element signature="e#0#33#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -573,7 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="49" column="8" lean-forward="false" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -581,9 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -591,15 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="52" column="8" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMS/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -611,40 +703,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMS/models.py">
+    <entry file="file://$PROJECT_DIR$/CMS/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding />
+        <state relative-caret-position="225">
+          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="e#627#659#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMS/admin.py">
+    <entry file="file://$PROJECT_DIR$/CMS/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="330">
+          <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_article.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CMS/view.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="90">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMS/urls.py">
+    <entry file="file://$PROJECT_DIR$/static/js/editor/kindeditor/lang/ar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        <state relative-caret-position="15">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/editor/kindeditor/kindeditor-all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/editor/kindeditor/kindeditor-all-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#627#659#0" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMS/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="118" column="13" lean-forward="true" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/editor/kindeditor/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMS/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
